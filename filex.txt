@@ -1,3 +1,2 @@
-advavasdvjnkcjnwkjn
-dchhwbcjwh
-kkjbdwc
+file a.txt memiliki 3 baris
+file b.txt memiliki 3 baris

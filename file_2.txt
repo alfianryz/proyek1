@@ -1,6 +1,0 @@
-file 2
-a
-s
-d
-f
-g
